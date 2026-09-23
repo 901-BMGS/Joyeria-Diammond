@@ -1,22 +1,32 @@
 # Joyeria-Diammond
-## Descripcion
-Aplicacion web 
+******
+
+## Descripción
+Aplicación web
+
 ## Objetivo
-Desarrollar 
+Desarrollar
+
 ## Funcionalidades
--[] crude clientes
--[] crude productos
--[] crude ofertas
--[] carrito
-## Equipo de desarrollo
-+ Desarrollador 1
-+ Desarrollador 2
-+  Desarrollador 3
-## pila tecnologica
-+ Legunage
-+ framwork
-+ bd
-+ editor
-## fechas
+-[] CRUD Clientes
+-[] CRUD Productos
+-[] CRUD Ofertas
+-[] Carrito
+-[] Pagos
+
+## Equipo de Desarrollo 
++ Desarrollador1
++ Desarrollador2
++ Desarrollador3
+
+## Pila Tecnologica
++ Lenguaje
++ Framework
++ BD
++ Editor
+
+## Fechas 
++ Inicio
++ Fin
 
 
